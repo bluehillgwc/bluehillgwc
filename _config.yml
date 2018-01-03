@@ -1,2 +1,4 @@
 name: Blue Hill Girls Who Code
 markdown: kramdown
+
+theme: jekyll-theme-cayman
