@@ -1,8 +1,23 @@
-## Welcome to GitHub Pages
+## Key Information For Students and Parents (2017-2018)
 
-You can use the [editor on GitHub](https://github.com/bluehillgwc/bluehillgwc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Club website: www.bluehillgwc.com
+ 
+Eligibility: Open to all students, Grades 6-12, by enrollment only. Registration is now closed and all slots are filled, but students my sign up for the wait list in case a slot opens up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Club meetings: Our sections meet Tuesdays 6:30pm - 8:30pm and Fridays 4pm-6pm.
+
+Meeting location: Newton Free Library, Computer Lab on 2nd Floor.
+
+Attendance: All girls are expected to attend 80% of club meetings.
+
+Cost: All instruction and software is provided free of charge.
+
+Cancellations: Should we need to cancel a club meeting (due to bad weather, instructor illness, etc), we will post a notice here. In general, you should assume the club is operating any Monday or Friday that the Library is open. 
+
+National organization: www.girlswhocode.com/clubs
+National GWC Clubs Facebook page: https://www.facebook.com/groups/775218209223082
+
+Girls Who Code is a national non-profit organization working to close the gender gap in technology. Our programs educate, equip, and inspire girls with the computing skills they’ll need to pursue 21st century opportunities.
 
 ### Markdown
 
