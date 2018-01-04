@@ -5,8 +5,5 @@ theme: jekyll-theme-cayman
 
 defaults:
 -
-  scope:
-    path: ""
     type: "pages"
-  values:
     layout: "page"
