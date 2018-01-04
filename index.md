@@ -19,6 +19,14 @@ National GWC Clubs Facebook page: [https://www.facebook.com/groups/7752182092230
 
 Girls Who Code is a national non-profit organization working to close the gender gap in technology. Our programs educate, equip, and inspire girls with the computing skills they’ll need to pursue 21st century opportunities.
 
+
+
+## 2018 Club Sessions
+* [Session 1: 01-10-2018](https://docs.google.com/presentation/d/1hJPsx-jxbJehy6CS9ybEYM35ALyfmKvoxiLVLKxV4ck/edit?usp=sharing)
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
