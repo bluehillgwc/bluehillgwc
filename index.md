@@ -1,6 +1,6 @@
 ## Key Information For Students and Parents (2017-2018)
 
-Club website: www.bluehillgwc.com
+Club website: [www.bluehillgwc.com](http://www.bluehillgwc.com)
  
 Eligibility: Open to all girls, ages 12-18, by registering through the Blue Hill Library.
 
