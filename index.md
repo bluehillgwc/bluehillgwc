@@ -2,20 +2,20 @@
 
 Club website: www.bluehillgwc.com
  
-Eligibility: Open to all students, Grades 6-12, by enrollment only. Registration is now closed and all slots are filled, but students my sign up for the wait list in case a slot opens up.
+Eligibility: Open to all girls, ages 12-18, by registering through the Blue Hill Library.
 
-Club meetings: Our sections meet Tuesdays 6:30pm - 8:30pm and Fridays 4pm-6pm.
+Club meetings: Wednesdays from 4pm - 6pm.
 
-Meeting location: Newton Free Library, Computer Lab on 2nd Floor.
+Meeting location: George Stevens Academy, Computer Lab on first floor.
 
 Attendance: All girls are expected to attend 80% of club meetings.
 
 Cost: All instruction and software is provided free of charge.
 
-Cancellations: Should we need to cancel a club meeting (due to bad weather, instructor illness, etc), we will post a notice here. In general, you should assume the club is operating any Monday or Friday that the Library is open. 
+Cancellations: If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all girls and parents by email when there is a cancellation. 
 
-National organization: www.girlswhocode.com/clubs
-National GWC Clubs Facebook page: https://www.facebook.com/groups/775218209223082
+National organization: [www.girlswhocode.com/clubs](https://www.girlswhocode.com/clubs)
+National GWC Clubs Facebook page: [https://www.facebook.com/groups/775218209223082](https://www.facebook.com/groups/775218209223082)
 
 Girls Who Code is a national non-profit organization working to close the gender gap in technology. Our programs educate, equip, and inspire girls with the computing skills they’ll need to pursue 21st century opportunities.
 
