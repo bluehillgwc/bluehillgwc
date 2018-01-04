@@ -2,3 +2,11 @@ name: Blue Hill Girls Who Code
 markdown: kramdown
 title: Blue Hill Girls Who Code
 theme: jekyll-theme-cayman
+
+defaults:
+-
+  scope:
+    path: ""
+    type: "pages"
+  values:
+    layout: "page"
