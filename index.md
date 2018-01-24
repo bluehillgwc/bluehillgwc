@@ -24,3 +24,4 @@ Girls Who Code is a national non-profit organization working to close the gender
 
 ## 2018 Club Sessions
 * [Session 1: 01-10-2018](https://docs.google.com/presentation/d/1hJPsx-jxbJehy6CS9ybEYM35ALyfmKvoxiLVLKxV4ck/edit?usp=sharing)
+* [Session 2: 01-24-2018](https://docs.google.com/presentation/d/1fgqv3XwsnNCs8nsVes6brqdKnVgbRCaBrZDXC-8cQas/edit?usp=sharing)
