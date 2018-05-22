@@ -17,7 +17,8 @@ h3 {
 
 .jumbotron{
   text-align: center;
-  
+  color: white;
+  background-color: none;
   background-image: url('https://static1.squarespace.com/static/557b42f7e4b0ee5b8e212853/t/557d9399e4b097936a87b21e/1434293148832/forman-banner-trees.jpg?format=1500w');
 
 .options {
