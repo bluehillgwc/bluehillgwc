@@ -1,4 +1,4 @@
-## Key Information For Students and Parents (2018-2019)
+## Key Information For Students and Parents (2019)
 
 **Club website:** [www.bluehillgwc.com](http://www.bluehillgwc.com)
  
