@@ -4,7 +4,9 @@
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
 
-**Club meetings:** Wednesdays from 3pm - 5pm (note, this is a change from previous years).
+**Register:** http://bluehillgwc.com/registration
+
+**Club meetings:** Starting January 9 and running through the end of April on Wednesdays from 3pm - 5pm (note, this is a change from previous years).
 
 **Meeting location:** George Stevens Academy Library (slight location change too!).
 
