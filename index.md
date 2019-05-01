@@ -34,6 +34,7 @@ Girls Who Code is a national nonprofit organization working to close the gender 
 * [Session 9 (3-27-2019)](https://docs.google.com/presentation/d/1t2mne-QdZMeiiVrs0ARfksOUnQfwGc6lPtWla6u3HY0/edit?usp=sharing)
 * [Session 10 (4-10-2019)](https://docs.google.com/presentation/d/1jV_VVEiJqC8FHRxq0zoBL_VSVgRzcEp4125Vw7C8XvQ/edit?usp=sharing)
 * [Session 11 (4-24-2019)](https://docs.google.com/presentation/d/1Aodqu4gANYUi48elukin8a7067tToIbqAxVrE-i4HXk/edit?usp=sharing)
+* [Session 12 (5-1-2019)](https://docs.google.com/presentation/d/1FJpUY6RYf8QIlGmcMQQj3o2MwogNhqpc7EDmbYfUv-U/edit?usp=sharing)
 
 
 ## 2018 CS Impact Project
