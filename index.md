@@ -4,7 +4,7 @@
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
 
-**Register (required prior to attending):** [www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)
+**Register:** [www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)
 
 **Club meetings:** Starting January 22 and running through April on Wednesdays from 3pm-5pm
 
