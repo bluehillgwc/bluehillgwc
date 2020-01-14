@@ -6,7 +6,7 @@
 
 **Register (required prior to attending):** [www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)
 
-**Club meetings:** Starting January 22 and running through mid April on Wednesdays from 3pm-5pm
+**Club meetings:** Starting January 22 and running through April on Wednesdays from 3pm-5pm
 
 **Meeting location:** George Stevens Academy Library
 
@@ -15,6 +15,8 @@
 **Cost:** All instruction and software is provided free of charge.
 
 **Cancellations:** If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all girls and parents by email when there is a cancellation. 
+
+**Questions?** Email club facilitator [Michelle Keyo](mailto:michelle@sheyo.com) or call Libby at the GSA Library at 374-2808.
 
 National organization: [www.girlswhocode.com/clubs](https://www.girlswhocode.com/clubs)
 
