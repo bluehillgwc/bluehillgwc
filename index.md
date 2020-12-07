@@ -16,7 +16,7 @@
 
 **Cancellations:** If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all girls and parents by email when there is a cancellation. 
 
-**Questions?** Email club facilitator [Michelle Keyo](mailto:michelle@sheyo.com) or call Libby at the GSA Library at 374-2808.
+**Questions?** Email club facilitator [Michelle Keyo](mailto:michelle@sheyo.com) or GSA Librarian [Libby Edwardson](mailto:l.edwardson@georgestevens.org).
 
 National organization: [www.girlswhocode.com/clubs](https://www.girlswhocode.com/clubs)
 
