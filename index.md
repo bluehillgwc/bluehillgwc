@@ -6,7 +6,7 @@
 
 **Register:** Registration is closed for 2020 <!--[www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)-->
 
-**Club meetings:** Starting January 22 and running through April on Wednesdays from 3pm-5pm
+**Club meetings:** Starting January 27 and running through April on Wednesdays from 4pm-5pm
 
 **Meeting location:** George Stevens Academy Library
 
