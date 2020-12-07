@@ -8,9 +8,9 @@
 
 **Club meetings:** Starting January 27 and running through April on Wednesdays from 4pm-5pm
 
-**Meeting location:** George Stevens Academy Library
+**Meeting location:** 2021 club meetings will take place virtually
 
-**Attendance:** All girls are expected to attend 80% of club meetings.
+**Attendance:** Girls are expected to attend 80% of club meetings.
 
 **Cost:** All instruction and software is provided free of charge.
 
