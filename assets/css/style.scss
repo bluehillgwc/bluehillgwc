@@ -3,10 +3,23 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:300;
+}
 .page-header {
   background-color: #000;
   background-image: none;
 }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   color: #000;
+}
+h1.project-name {
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.main-content h2 {
+    font-weight: 300;
+    font-size: 1.75em;
+    letter-spacing: 1px;
 }
