@@ -1,10 +1,11 @@
 ## Key Information For Students and Parents (2022)
 
-**Club website:** [www.bluehillgwc.com](http://www.bluehillgwc.com)
+
+<div class="regbox">
+ <h3>Registration is OPEN for 2022 <a href="http://bluehillgwc.com/registration">Register Now</a></h3>
+</div>
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
-
-**Register:** Registration is OPEN for 2022 [www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)
 
 **Club meetings:** January 26 through April 13 on Wednesdays from 3pm-5pm.
 
