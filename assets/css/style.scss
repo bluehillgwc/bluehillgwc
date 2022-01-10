@@ -26,3 +26,13 @@ h1.project-name {
 strong {
   font-weight: 500;
 }
+.regbox {
+  background-color: #FDD946;
+  color: #000;
+  a {
+    color: #003046;
+    &:hover {
+      color: #0169E1;
+    }
+  }
+}
