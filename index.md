@@ -15,7 +15,7 @@
 
 **Cost:** All instruction and software is provided free of charge.
 
-**Cancellations:** All school rules related to Covid-19 will be followed during Girls Who Code meetings. If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all coders and parents by email when there is a cancellation. 
+**Covid + Cancellations:** All school rules related to Covid-19 will be followed during Girls Who Code meetings. If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all coders and parents by email when there is a cancellation. 
 
 **Questions?** Email club facilitator [Michelle Keyo](mailto:staff@bluehillgwc.com) or GSA Librarian [Libby Edwardson](mailto:l.edwardson@georgestevens.org).
 
