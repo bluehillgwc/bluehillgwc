@@ -1,26 +1,26 @@
 ## Key Information For Students and Parents (2021)
 
-**Club website:** [www.bluehillgwc.com](http://www.bluehillgwc.com)
+**Club website:** [www.bluehillgwc.com](https://www.bluehillgwc.com)
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
 
-**Register:** Registration is OPEN for 2021 [www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)
+**Register:** Registration is OPEN for 2022 [www.bluehillgwc.com/registration](http://bluehillgwc.com/registration)
 
-**Club meetings:** Starting January 27 and running through April on Wednesdays from 4pm-5pm
+**Club meetings:** January 26 through April 13 on Wednesdays from 3pm-5pm.
 
-**Meeting location:** 2021 club meetings will take place virtually
+**Meeting location:** 2022 club meetings will take place in the George Stevens Academy library.
 
-**Attendance:** Girls are expected to attend 80% of club meetings.
+**Attendance:** Coders are expected to attend 80% of club meetings.
 
 **Cost:** All instruction and software is provided free of charge.
 
-**Cancellations:** If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all girls and parents by email when there is a cancellation. 
+**Cancellations:** All school rules related to Covid-19 will be followed during Girls Who Code meetings. If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all coders and parents by email when there is a cancellation. 
 
 **Questions?** Email club facilitator [Michelle Keyo](mailto:michelle@sheyo.com) or GSA Librarian [Libby Edwardson](mailto:l.edwardson@georgestevens.org).
 
-National organization: [www.girlswhocode.com/clubs](https://www.girlswhocode.com/clubs)
+National organization: <a href="https://girlswhocode.com/programs/clubs-program" target="_blank">Girls Who Code Clubs</a>
 
-National GWC Clubs Facebook page: [https://www.facebook.com/groups/775218209223082](https://www.facebook.com/groups/775218209223082)
+National GWC Clubs Facebook page: [https://www.facebook.com/GirlsWhoCode](https://www.facebook.com/GirlsWhoCode)
 
 Girls Who Code is a national nonprofit organization working to close the gender gap in technology. Our programs educate, equip, and inspire girls with the computing skills they’ll need to pursue 21st century opportunities.
 
