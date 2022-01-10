@@ -1,6 +1,6 @@
 ## Key Information For Students and Parents (2021)
 
-**Club website:** [www.bluehillgwc.com](https://www.bluehillgwc.com)
+**Club website:** [www.bluehillgwc.com](http://www.bluehillgwc.com)
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
 
@@ -16,13 +16,13 @@
 
 **Cancellations:** All school rules related to Covid-19 will be followed during Girls Who Code meetings. If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all coders and parents by email when there is a cancellation. 
 
-**Questions?** Email club facilitator [Michelle Keyo](mailto:michelle@sheyo.com) or GSA Librarian [Libby Edwardson](mailto:l.edwardson@georgestevens.org).
+**Questions?** Email club facilitator [Michelle Keyo](mailto:staff@bluehillgwc.com) or GSA Librarian [Libby Edwardson](mailto:l.edwardson@georgestevens.org).
 
 National organization: <a href="https://girlswhocode.com/programs/clubs-program" target="_blank">Girls Who Code Clubs</a>
 
-National GWC Clubs Facebook page: [https://www.facebook.com/GirlsWhoCode](https://www.facebook.com/GirlsWhoCode)
+National GWC on Facebook: <a href="https://www.facebook.com/GirlsWhoCode" target="_blank">Girls Who Code Facebook page</a>
 
-Girls Who Code is a national nonprofit organization working to close the gender gap in technology. Our programs educate, equip, and inspire girls with the computing skills they’ll need to pursue 21st century opportunities.
+Girls Who Code is a national nonprofit organization working to close the gender gap in technology. The programs educate, equip, and inspire girls with the computing skills they’ll need to pursue 21st century opportunities.
 
 <!--## 2019 Session Slides
 * [Session 1 (1-9-2019)](https://docs.google.com/presentation/d/1H3xNAiKhyphFkc5UQOWOCnoUua84UeFV1fKoX9fJEp0/edit?usp=sharing)
