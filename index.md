@@ -1,4 +1,4 @@
-## Key Information For Students and Parents (2021)
+## Key Information For Students and Parents (2022)
 
 **Club website:** [www.bluehillgwc.com](http://www.bluehillgwc.com)
  
