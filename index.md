@@ -2,7 +2,7 @@
 
 
 <div class="regbox">
- <h3>Registration is OPEN for 2022 <a href="http://bluehillgwc.com/registration">Register Now</a></h3>
+ <h3>Registration is OPEN for 2022: <a href="http://bluehillgwc.com/registration">Register Now</a></h3>
 </div>
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
