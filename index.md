@@ -7,7 +7,7 @@
  
 **Eligibility:** Open to all girls, ages 12-18, by online registration.
 
-**Club meetings:** January 26 through April 13 on Wednesdays from 3pm-5pm.
+**Club meetings:** February 2 through April on Wednesdays from 3pm-5pm.
 
 **Meeting location:** 2022 club meetings will take place in the George Stevens Academy library.
 
