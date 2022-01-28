@@ -20,7 +20,6 @@
  <li>masks required at all times when indoors on campus</li>
  <li>students must maintain a distance of 3 feet when masked</li>
  <li>students must maintain a distance of 6 feet when unmasked for eating</li>
- <li>seating will be assigned and consistent from week to week for contact tracing purposes</li>
 </ul>
 
 If school is cancelled, our club will be cancelled. If after school activities are cancelled, our club will also be cancelled. We will try to notify all coders and parents by email when there is a cancellation. 
